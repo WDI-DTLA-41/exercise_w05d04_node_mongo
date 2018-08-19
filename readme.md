@@ -14,7 +14,7 @@ Do you still need to run a MongoDB server?
 If we were to build an Express app that persists data, where would
 we use the MongoDB Node client?
 
-If we asked an express server to return all the the objects in a mongoDB database
+If we asked an express server to return all the objects in a mongoDB database
 - What might the request from the Browser look like?
 - What mongoDB method might we use on the server?
 
